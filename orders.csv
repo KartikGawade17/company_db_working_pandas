@@ -1,0 +1,101 @@
+order_id,customer_id,product_id,employee_id,quantity,order_amount,order_date,payment_method,order_status
+1,1,1,103,1,55000.00,2024-01-05,UPI,Delivered
+2,2,2,111,2,2400.00,2024-01-06,"Credit Card",Delivered
+3,3,3,119,1,2500.00,2024-01-07,"Debit Card",Shipped
+4,4,4,127,1,18000.00,2024-01-08,Cash,Processing
+5,5,5,103,2,19000.00,2024-01-09,UPI,Delivered
+6,6,6,111,1,28000.00,2024-01-10,"Credit Card",Delivered
+7,7,7,119,1,40000.00,2024-01-11,"Debit Card",Cancelled
+8,8,8,127,3,10500.00,2024-01-12,Cash,Delivered
+9,9,9,103,1,32000.00,2024-01-13,UPI,Shipped
+10,10,10,111,1,45000.00,2024-01-14,"Credit Card",Delivered
+11,11,11,119,2,12000.00,2024-01-15,"Debit Card",Delivered
+12,12,12,127,1,3000.00,2024-01-16,Cash,Processing
+13,13,13,103,2,10000.00,2024-01-17,UPI,Delivered
+14,14,14,111,1,7500.00,2024-01-18,"Credit Card",Delivered
+15,15,15,119,2,5600.00,2024-01-19,"Debit Card",Cancelled
+16,16,16,127,1,38000.00,2024-01-20,Cash,Delivered
+17,17,17,103,1,9000.00,2024-01-21,UPI,Shipped
+18,18,18,111,3,5400.00,2024-01-22,"Credit Card",Delivered
+19,19,19,119,5,2500.00,2024-01-23,"Debit Card",Delivered
+20,20,20,127,1,15000.00,2024-01-24,Cash,Processing
+21,21,1,103,2,110000.00,2024-01-25,UPI,Delivered
+22,22,2,111,1,1200.00,2024-01-26,"Credit Card",Delivered
+23,23,3,119,3,7500.00,2024-01-27,"Debit Card",Shipped
+24,24,4,127,2,36000.00,2024-01-28,Cash,Delivered
+25,25,5,103,1,9500.00,2024-01-29,UPI,Cancelled
+26,1,6,111,2,56000.00,2024-01-30,"Credit Card",Delivered
+27,2,7,119,1,40000.00,2024-01-31,"Debit Card",Delivered
+28,3,8,127,2,7000.00,2024-02-01,Cash,Processing
+29,4,9,103,1,32000.00,2024-02-02,UPI,Delivered
+30,5,10,111,1,45000.00,2024-02-03,"Credit Card",Shipped
+31,6,11,119,2,12000.00,2024-02-04,"Debit Card",Delivered
+32,7,12,127,3,9000.00,2024-02-05,Cash,Delivered
+33,8,13,103,1,5000.00,2024-02-06,UPI,Processing
+34,9,14,111,2,15000.00,2024-02-07,"Credit Card",Delivered
+35,10,15,119,1,2800.00,2024-02-08,"Debit Card",Delivered
+36,11,16,127,1,38000.00,2024-02-09,Cash,Cancelled
+37,12,17,103,2,18000.00,2024-02-10,UPI,Delivered
+38,13,18,111,4,7200.00,2024-02-11,"Credit Card",Delivered
+39,14,19,119,5,2500.00,2024-02-12,"Debit Card",Shipped
+40,15,20,127,1,15000.00,2024-02-13,Cash,Delivered
+41,16,1,103,1,55000.00,2024-02-14,UPI,Delivered
+42,17,2,111,2,2400.00,2024-02-15,"Credit Card",Processing
+43,18,3,119,4,10000.00,2024-02-16,"Debit Card",Delivered
+44,19,4,127,1,18000.00,2024-02-17,Cash,Delivered
+45,20,5,103,2,19000.00,2024-02-18,UPI,Cancelled
+46,21,6,111,1,28000.00,2024-02-19,"Credit Card",Delivered
+47,22,7,119,2,80000.00,2024-02-20,"Debit Card",Delivered
+48,23,8,127,3,10500.00,2024-02-21,Cash,Shipped
+49,24,9,103,1,32000.00,2024-02-22,UPI,Delivered
+50,25,10,111,2,90000.00,2024-02-23,"Credit Card",Delivered
+51,1,11,119,1,6000.00,2024-02-24,"Debit Card",Processing
+52,2,12,127,2,6000.00,2024-02-25,Cash,Delivered
+53,3,13,103,3,15000.00,2024-02-26,UPI,Delivered
+54,4,14,111,1,7500.00,2024-02-27,"Credit Card",Cancelled
+55,5,15,119,2,5600.00,2024-02-28,"Debit Card",Delivered
+56,6,16,127,1,38000.00,2024-02-29,Cash,Delivered
+57,7,17,103,2,18000.00,2024-03-01,UPI,Shipped
+58,8,18,111,1,1800.00,2024-03-02,"Credit Card",Delivered
+59,9,19,127,4,2000.00,2024-03-03,Cash,Delivered
+60,10,20,103,2,30000.00,2024-03-04,UPI,Processing
+61,11,1,111,1,55000.00,2024-03-05,"Credit Card",Delivered
+62,12,2,119,5,6000.00,2024-03-06,"Debit Card",Delivered
+63,13,3,127,2,5000.00,2024-03-07,Cash,Cancelled
+64,14,4,103,1,18000.00,2024-03-08,UPI,Delivered
+65,15,5,111,2,19000.00,2024-03-09,"Credit Card",Delivered
+66,16,6,119,1,28000.00,2024-03-10,"Debit Card",Shipped
+67,17,7,127,2,80000.00,2024-03-11,Cash,Delivered
+68,18,8,103,1,3500.00,2024-03-12,UPI,Delivered
+69,19,9,111,2,64000.00,2024-03-13,"Credit Card",Processing
+70,20,10,119,1,45000.00,2024-03-14,"Debit Card",Delivered
+71,21,11,127,3,18000.00,2024-03-15,Cash,Delivered
+72,22,12,103,2,6000.00,2024-03-16,UPI,Cancelled
+73,23,13,111,1,5000.00,2024-03-17,"Credit Card",Delivered
+74,24,14,119,4,30000.00,2024-03-18,"Debit Card",Delivered
+75,25,15,127,2,5600.00,2024-03-19,Cash,Shipped
+76,1,16,103,1,38000.00,2024-03-20,UPI,Delivered
+77,2,17,111,2,18000.00,2024-03-21,"Credit Card",Delivered
+78,3,18,119,3,5400.00,2024-03-22,"Debit Card",Processing
+79,4,19,127,5,2500.00,2024-03-23,Cash,Delivered
+80,5,20,103,1,15000.00,2024-03-24,UPI,Delivered
+81,6,1,111,2,110000.00,2024-03-25,"Credit Card",Shipped
+82,7,2,119,1,1200.00,2024-03-26,"Debit Card",Delivered
+83,8,3,127,2,5000.00,2024-03-27,Cash,Delivered
+84,9,4,103,1,18000.00,2024-03-28,UPI,Cancelled
+85,10,5,111,3,28500.00,2024-03-29,"Credit Card",Delivered
+86,11,6,119,1,28000.00,2024-03-30,"Debit Card",Delivered
+87,12,7,127,2,80000.00,2024-03-31,Cash,Processing
+88,13,8,103,4,14000.00,2024-04-01,UPI,Delivered
+89,14,9,111,1,32000.00,2024-04-02,"Credit Card",Delivered
+90,15,10,119,2,90000.00,2024-04-03,"Debit Card",Shipped
+91,16,11,127,1,6000.00,2024-04-04,Cash,Delivered
+92,17,12,103,2,6000.00,2024-04-05,UPI,Delivered
+93,18,13,111,3,15000.00,2024-04-06,"Credit Card",Cancelled
+94,19,14,119,1,7500.00,2024-04-07,"Debit Card",Delivered
+95,20,15,127,2,5600.00,2024-04-08,Cash,Delivered
+96,21,16,103,1,38000.00,2024-04-09,UPI,Shipped
+97,22,17,111,2,18000.00,2024-04-10,"Credit Card",Delivered
+98,23,18,119,5,9000.00,2024-04-11,"Debit Card",Delivered
+99,24,19,127,2,1000.00,2024-04-12,Cash,Processing
+100,25,20,103,1,15000.00,2024-04-13,UPI,Delivered

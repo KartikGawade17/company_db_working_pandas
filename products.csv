@@ -1,0 +1,21 @@
+product_id,product_name,category,brand,price,stock_quantity
+1,Laptop,Electronics,Dell,55000.00,25
+2,Mouse,Accessories,Logitech,1200.00,150
+3,Keyboard,Accessories,HP,2500.00,100
+4,Monitor,Electronics,Samsung,18000.00,40
+5,Printer,Electronics,Canon,9500.00,30
+6,Tablet,Electronics,Lenovo,28000.00,20
+7,Smartphone,Electronics,Samsung,40000.00,50
+8,Headphones,Accessories,Sony,3500.00,80
+9,Smartwatch,Wearables,Apple,32000.00,35
+10,Camera,Electronics,Canon,45000.00,15
+11,Speaker,Accessories,JBL,6000.00,60
+12,Router,Networking,TP-Link,3000.00,70
+13,"Hard Disk",Storage,Seagate,5000.00,55
+14,SSD,Storage,Samsung,7500.00,45
+15,Webcam,Accessories,Logitech,2800.00,65
+16,Projector,Electronics,Epson,38000.00,12
+17,Microphone,Accessories,"Blue Yeti",9000.00,25
+18,"Power Bank",Accessories,Mi,1800.00,90
+19,"USB Cable",Accessories,Boat,500.00,200
+20,"Gaming Chair",Furniture,"Green Soul",15000.00,18

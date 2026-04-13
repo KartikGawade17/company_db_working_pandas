@@ -1,0 +1,26 @@
+customer_id,customer_name,gender,age,city,phone_number,email,registration_date
+1,"Rahul Sharma",Male,28,Mumbai,9876543201,rahul1@gmail.com,2024-01-05
+2,"Priya Mehta",Female,25,Pune,9876543202,priya2@gmail.com,2024-01-07
+3,"Amit Verma",Male,31,Delhi,9876543203,amit3@gmail.com,2024-01-08
+4,"Sneha Patil",Female,27,Mumbai,9876543204,sneha4@gmail.com,2024-01-09
+5,"Karan Singh",Male,35,Bangalore,9876543205,karan5@gmail.com,2024-01-10
+6,"Anjali Desai",Female,29,Ahmedabad,9876543206,anjali6@gmail.com,2024-01-12
+7,"Vikram Joshi",Male,33,Pune,9876543207,vikram7@gmail.com,2024-01-15
+8,"Neha Kapoor",Female,26,Chennai,9876543208,neha8@gmail.com,2024-01-17
+9,"Rahul Nair",Male,30,Hyderabad,9876543209,rahul9@gmail.com,2024-01-20
+10,"Pooja Kulkarni",Female,32,Mumbai,9876543210,pooja10@gmail.com,2024-01-21
+11,"Aditya Rao",Male,24,Bangalore,9876543211,aditya11@gmail.com,2024-01-22
+12,"Simran Kaur",Female,29,Delhi,9876543212,simran12@gmail.com,2024-01-24
+13,"Manish Gupta",Male,36,Noida,9876543213,manish13@gmail.com,2024-01-25
+14,"Isha Shah",Female,27,Surat,9876543214,isha14@gmail.com,2024-01-26
+15,"Arjun Mishra",Male,34,Lucknow,9876543215,arjun15@gmail.com,2024-01-28
+16,"Ritika Sen",Female,28,Kolkata,9876543216,ritika16@gmail.com,2024-01-30
+17,"Siddharth Jain",Male,31,Jaipur,9876543217,siddharth17@gmail.com,2024-02-01
+18,"Meera Iyer",Female,26,Chennai,9876543218,meera18@gmail.com,2024-02-03
+19,"Yash Thakur",Male,29,Indore,9876543219,yash19@gmail.com,2024-02-05
+20,"Kavya Reddy",Female,25,Hyderabad,9876543220,kavya20@gmail.com,2024-02-07
+21,"Nikhil Agarwal",Male,37,Delhi,9876543221,nikhil21@gmail.com,2024-02-09
+22,"Shruti Malhotra",Female,30,Mumbai,9876543222,shruti22@gmail.com,2024-02-11
+23,"Harsh Vardhan",Male,28,Patna,9876543223,harsh23@gmail.com,2024-02-13
+24,"Aditi Chavan",Female,27,Pune,9876543224,aditi24@gmail.com,2024-02-14
+25,"Dev Malhotra",Male,32,Chandigarh,9876543225,dev25@gmail.com,2024-02-16
